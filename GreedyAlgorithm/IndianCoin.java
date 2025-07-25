@@ -27,5 +27,7 @@ public class IndianCoin {
         int amount = sc.nextInt();
 
         System.out.println("\nThe coins required to make the amount " + amount + " are:"+ indianCoin(coins, amount));
+
+        sc.close();
     }
 }

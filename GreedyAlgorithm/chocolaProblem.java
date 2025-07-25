@@ -1,7 +1,7 @@
 import java.util.*;
 public class chocolaProblem {
     public static void main(String args[]){
-        int n = 4, m= 6;
+        //int n = 4, m= 6;
         Integer costVer[] = {13,2,1,8,19,7};
         Integer costHor[] = {19,12,14,8};
 
