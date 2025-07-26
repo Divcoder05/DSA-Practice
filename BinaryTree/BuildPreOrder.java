@@ -48,6 +48,7 @@ public class BuildPreOrder {
             printPostOrder(root.right);
             System.out.print(root.data+" ");
         }
+        
         public void levelOrderTraversal(Node root){
             if(root == null){
                 return;
