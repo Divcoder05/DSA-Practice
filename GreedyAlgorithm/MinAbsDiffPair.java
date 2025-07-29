@@ -1,3 +1,4 @@
+//GIven two arrays A and B
 import java.util.*;
 public class MinAbsDiffPair {
     public static int minAbsDiffPair(int[] A, int[] B) {
